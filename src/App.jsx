@@ -852,7 +852,7 @@ function AboutPage() {
       <div className="kl-section-tag"></div>
       <div className="kl-about-banner">
         <div className="kl-about-photo-wrap">
-          <img src="/me.jpg" alt="Profile" className="kl-about-photo" />
+          <img src="/me.jpg" alt="Profile" className="kl-about-photo object" />
           <div className="kl-about-ring"></div>
           <div className="kl-about-online">
             <span className="kl-online-dot"></span>Student · Researcher
